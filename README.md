@@ -20,33 +20,7 @@
 ---
 
 <div>
-<img align="right" src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg" alt="Illustration" title="Illustration Storyset" width=450/>
 
-<h1 align="left">Hi 👋🏽, I'm Renaldi</h1>
-
-![Profile views](https://gpvc.arturio.dev/renaldi)
-
-<h3 align="left">Full-Stack Developer | React • Node.js • AI • Automation 🚀</h3>
-
-<div align="left">
-    <h3>👨🏽‍💻 About me:</h3>
-        <p>• 💡 I build full‑stack web apps, automation tools, and AI‑powered workflows.</p>
-        <p>• 🚀 Currently improving: <b>Advanced React, Node.js, AI automation, system design, scalable architectures.</b></p>
-        <p>• ⚙️ Focused on creating <b>intelligent and efficient applications</b> that solve real‑world problems.</p>
-        <p>• 🎯 Goal: <b>Build scalable SaaS, automation platforms, and AI‑driven systems.</b></p>
-        <p>• 💬 Ask me about: <b>Full‑stack development, automation, AI workflows, architecture patterns</b></p>
-        <p>• 📫 Reach me at: <b>your.email@example.com</b></p>
-        <p>• 🎮 Hobbies: <b>Tech tinkering 🤖 | Music 🎧 | Chess ♟ | Fitness 🏋️ | Coding experiments ⚡</b></p>
-</div><br>
-
-<div align="center">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=renaldi&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="renaldi" />
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=renaldi&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="renaldi" />
-</div>
-
----
-
-<div>
   <h3>🧰 Languages & Tools:</h3><br>
     
   <!-- Frontend -->
@@ -83,22 +57,6 @@
 
 ---
 
-<div>
-  <h3>📱 Social Media:</h3><br>
-    <a href="#"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" /></a>
-    <a href="#"><img src="https://img.shields.io/static/v1?label=&message=Portfolio&color=%23000000&style=for-the-badge&logo=googlechrome&logoColor=whitesmoke" /></a>
-    <a href="#"><img src="https://img.shields.io/static/v1?label=&message=Twitter&color=%231DA1F2&style=for-the-badge&logo=twitter&logoColor=whitesmoke" /></a>
-    <a href="#"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=lightpink&style=for-the-badge&logo=instagram&logoColor=black" /></a>
-</div>
 
----
-
-Credit: Inspired by [gabrlcj](https://github.com/gabrlcj)
-
-Last Edited on: {{CURRENT_DATE}}
-
-</div>
-
-------
 
 [renaldi-azis](https://github.com/renaldi-azis)
