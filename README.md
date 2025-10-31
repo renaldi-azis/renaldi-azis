@@ -2,7 +2,7 @@
     
 <h1 align="left">Hi 👋🏽, I'm Renaldi Chairufin Azis</h1>
 
-![Profile views](https://gpvc.arturio.dev/gabrlcj)
+![Profile views](https://gpvc.arturio.dev/renaldi-azis)
 
 <h3 align="left">I have a passion for programming and tecnology! </h3>
 
