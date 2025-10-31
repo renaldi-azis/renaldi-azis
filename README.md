@@ -55,8 +55,3 @@
   <img src="https://img.shields.io/static/v1?label=&message=WordPress&color=%2321759B&style=for-the-badge&logo=wordpress&logoColor=white" />
 </div>
 
----
-
-
-
-[renaldi-azis](https://github.com/renaldi-azis)
